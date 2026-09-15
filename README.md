@@ -7,7 +7,7 @@
 </h1> 
 
 <h3 align="center">
-*Holi*     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWM5Z3U3OXlueG5qMHJmdjR0cGo3djdlMDczMTA2MnQ4Z2Vkb3FhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="70">
+Holi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWM5Z3U3OXlueG5qMHJmdjR0cGo3djdlMDczMTA2MnQ4Z2Vkb3FhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="70" margin-right: 15px;>
 </h3>  
 
 <p align="center">
