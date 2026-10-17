@@ -10,7 +10,6 @@
 </h1>
 
 <p align="center">
-  <i>Holi</i>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWM5Z3U3OXlueG5qMHJmdjR0cGo3djdlMDczMTA2MnQ4Z2Vkb3FhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NGNb0YWcDjPgP9nlAW/giphy.gif" width="70">
   <br>
   Estudio en el <b>ITB</b> y me gustaría aprender a programar 💻✨
