@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C9DB0,50:FFEBB0,100:FFC7C7&height=100&section=header&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC7D4,100:3C2218&height=100&section=header&animation=fadeIn">
 </p>
 
 <h1 align="center">
@@ -23,12 +23,9 @@
 - Experta en empezar hobbies que abandonaré en dos semanas.
 - Adicta a la música, dependo emocionalmente de mis cascos.
   
-<p align="center">
-  <i>Mi código puede fallar, mi playlist jamás.</i>
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C9DB0,50:FFEBB0,100:FFC7C7&height=100&section=footer&animation=fadeIn">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C2218,100:FFC7D4&height=100&section=footer&animation=fadeIn">
 </p>
 <!--
 **nicolmc01/nicolmc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
