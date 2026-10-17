@@ -25,7 +25,7 @@
   
 
 <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C2218,100:FFC7D4&height=100&section=footer&animation=fadeIn">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC7D4,100:3C2218&height=100&section=footer&animation=fadeIn">
 </p>
 <!--
 **nicolmc01/nicolmc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
