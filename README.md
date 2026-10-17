@@ -21,7 +21,7 @@
 ### 🌸 Un poquito sobre mí
 - 🎓 Estudiando en el ITB
 - 🌱 Empezando en el mundo de la programación
-- 💭 Con muchas ganas de aprender cosas nuevas
+- 💭 Con ganas de aprender cosas nuevas
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4F2FF,100:FFBADF&height=100&section=footer&animation=fadeIn">
